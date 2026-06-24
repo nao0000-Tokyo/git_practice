@@ -1,8 +1,32 @@
-\# Python Practice
+\# Python Algorithm Practice
 
 
 
-This repository documents my Python learning journey, algorithm practice, and small automation projects.
+This repository documents my ongoing Python learning journey, focusing on:
+
+
+
+\- Algorithmic problem solving (Paiza / AtCoder)
+
+\- Data structures (sets, dictionaries, queues)
+
+\- Clean and efficient Python coding
+
+\- Preparation for formal CS education at Cyber University (starting Oct 2026)
+
+
+
+Background:
+
+\- 20 years in banking, audit, and IT audit
+
+\- Transitioning into AI, data, and computer science
+
+
+
+Goal:
+
+To build strong foundations for AI, automation, and graduate-level CS study.
 
 
 
