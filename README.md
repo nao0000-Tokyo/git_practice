@@ -1,8 +1,8 @@
-\# Python Algorithm Practice
+\# Python Algorithm Practice  
 
 
 
-This repository documents my ongoing Python learning journey, focusing on:
+This repository documents my ongoing Python learning journey, focusing on :
 
 
 
