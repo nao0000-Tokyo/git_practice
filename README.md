@@ -20,9 +20,9 @@ Currently, I am transitioning into AI, automation, and software development, bui
 
 \## Academic Path
 
+B.A. in Economics, Sophia University, Tokyo, Japan (2008)
 
-
-Starting in October 2026, I will enter Cyber University (Japan) as a third-year transfer student to formally study Computer Science, AI, and Data Science.
+Starting in October 2026, I will enter Cyber University (Japan) as a third-year transfer student and merit-based scholarship recipient to formally study Computer Science, AI, and Data Science.
 
 
 
