@@ -24,6 +24,12 @@ Background:
 
 
 
+Certification:
+
+CISA, CIA, CSM, CAMS, PCEP
+
+
+
 Goal:
 
 To build strong foundations for AI, automation, and graduate-level CS study.
